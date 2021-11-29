@@ -1,0 +1,6 @@
+ipympl
+scipy
+numpy
+matplotlib
+suncal
+voila
