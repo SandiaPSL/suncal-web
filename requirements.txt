@@ -1,6 +1,6 @@
-ipympl
-scipy
-numpy
-matplotlib
-suncal
-voila
+ipympl==0.8.5
+scipy==1.7.2
+numpy==1.21.4
+matplotlib==3.5.0
+suncal==1.5.5
+voila==0.3.0
